@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recensility</string>
+    <string name="tab_text_1">Recensioni</string>
+    <string name="tab_text_2">Consigli</string>
+    <string name="tab_text_3">Utility</string>
+</resources>
